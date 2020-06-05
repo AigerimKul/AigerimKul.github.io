@@ -1,2 +1,1 @@
-# AigerimKul.github.io
-My files
+# Assignments for MATH6642: Longitudinal data and mixed models. 
